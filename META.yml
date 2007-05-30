@@ -1,6 +1,6 @@
 ---
 name: CGI-Application-Plugin-Authentication-Driver-DBIC
-version: 0.01
+version: 0.02
 author:
   - 'Jaldhar H. Vyas <jaldhar@braincells.com>'
 abstract: DBIx::Class Authentication Driver
@@ -24,5 +24,5 @@ build_requires:
 provides:
   CGI::Application::Plugin::Authentication::Driver::DBIC:
     file: lib/CGI/Application/Plugin/Authentication/Driver/DBIC.pm
-    version: 0.01
+    version: 0.02
 generated_by: Module::Build version 0.26

@@ -19,6 +19,7 @@ use strict;
 use warnings;
 
 use CGI ();
+use lib qw( ./t/lib );
 use TestAppAuthMD5;
 use TestDB;
 use File::Path;

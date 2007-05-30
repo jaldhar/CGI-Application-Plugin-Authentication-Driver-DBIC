@@ -1,5 +1,5 @@
-CGI-Application-Plugin-Authentication-Driver-DBIC 0.1
-=====================================================
+CGI-Application-Plugin-Authentication-Driver-DBIC 0.02
+======================================================
 
 This is a driver for CGI::Application::Plugin::Authentication which in turn is
 a plugin for the CGI::Application framework.  It allows you to authenticate a
